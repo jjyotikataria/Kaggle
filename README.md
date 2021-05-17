@@ -1,2 +1,2 @@
 # Kaggle
-This repository is about the Kaggle hackathons I participate
+This repository will incorporate the learnings/codes I learnt from various hackathons.
